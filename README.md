@@ -3,4 +3,5 @@
 
 ## Project URL
 -This project is hosted under the domain `https://color-flipper.blinx.co.ke`
+-Check it out
 
